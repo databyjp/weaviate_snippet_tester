@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "weaviate-ts-client": "^1.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "type": "module"
+}
